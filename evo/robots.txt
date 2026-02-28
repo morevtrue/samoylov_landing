@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /manager/
+Allow: /
+
+Sitemap: https://denis.mental-prosvet.ru/sitemap.xml
